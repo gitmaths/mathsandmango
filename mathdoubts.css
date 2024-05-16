@@ -1,0 +1,17 @@
+/* Example styles */
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Add more styles as needed */
